@@ -1,1 +1,0 @@
-<h1> Content send from server </h1>
